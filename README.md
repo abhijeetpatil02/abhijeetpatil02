@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Abhijeet Patil</h1>
 <h3 align="center">🎓 MCA Student | 💻 Full Stack Web Developer | Passionate about building user-friendly web apps</h3>
 
