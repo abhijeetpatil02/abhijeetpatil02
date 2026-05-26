@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Currently pursuing **Masters of Computer Application (MCA)** at Mangalore
-- 🌱 I'm currently learning **React.js & REST APIs**
+- 🌱 I'm currently learning **Artificial Intelligence and Machine Learning**
 - 🔭 I'm working on **Smart Product Price Comparison** – a real-time cross-platform price aggregator
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Python, MySQL**
 - 📫 Reach me at **patilabhijeet261@gmail.com**
