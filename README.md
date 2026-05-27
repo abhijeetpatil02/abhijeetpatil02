@@ -86,8 +86,8 @@ I love building things that live on the internet — from food delivery apps to 
 
 <div align="center">
 
-<img src="htps://github-readme-stats.vercel.app/api?username=abhijeetpatil02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="htts://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetpatil02&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+<!-- <img src="htps://github-readme-stats.vercel.app/api?username=abhijeetpatil02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="htts://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetpatil02&layout=compact&theme=tokyonight&hide_border=true" width="40%" /> -->
 
 </div>
 
