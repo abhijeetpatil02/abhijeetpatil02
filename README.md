@@ -146,6 +146,5 @@ I love building things that live on the internet — from food delivery apps to 
 
 ⭐ **If you find my work interesting, drop a star on my repos — it means a lot!** ⭐
 
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
 </div>
