@@ -1,93 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abhijeet%20Patil&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MCA%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=58&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abhijeet%20Patil&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=abhijeetpatil02&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/abhijeetpatil02?label=Followers&style=for-the-badge&color=0e75b6" />
+<a href="https://www.linkedin.com/in/abhijeet-patil-83696837a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://abhijeetp-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+<a href="https://www.codechef.com/users/abhijeet_p02">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+<a href="mailto:patilabhijeet261@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=abhijeetpatil02&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 Who Am I?
 
-```yaml
-name        : Abhijeet Patil
-education   : Masters of Computer Application (MCA) — Mangalore
-location    : Bidar, Karnataka, India 📍
-learning    : Artificial Intelligence & Machine Learning 🤖
-building    : Smart Product Price Comparison — real-time cross-platform price aggregator 🛒
-ask_me_about: HTML · CSS · JavaScript · Node.js · Python · MySQL
-email       : patilabhijeet261@gmail.com
-portfolio   : https://abhijeetp-portfolio.netlify.app/
-```
+<img align="right" alt="coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+Hey there! I'm **Abhijeet Patil**, a passionate **Full Stack Web Developer** and **MCA student** from Bidar, Karnataka 🇮🇳
+
+I love building things that live on the internet — from food delivery apps to AI-powered medical tools. Currently diving deep into **Artificial Intelligence & Machine Learning** to build smarter, more impactful products.
+
+- 🎓 Pursuing **MCA** at Mangalore
+- 🔭 Working on **Smart Product Price Comparison**
+- 🌱 Currently learning **AI & Machine Learning**
+- 🏥 Recently built **Medical Expenses Estimator** — a transparent cost planning tool for patients
+- 💡 Believer in clean code, great UX & solving real problems
+- 📫 Reach me: **patilabhijeet261@gmail.com**
+- 🌐 Portfolio: [abhijeetp-portfolio.netlify.app](https://abhijeetp-portfolio.netlify.app/)
+- 📍 Bidar, Karnataka, India
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+<div align="center">
 
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Backend**
-
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Database**
-
+### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Platforms**
-
+### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+</div>
+
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Tech Stack</th>
-      <th>Highlights</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🍔 <a href="https://github.com/abhijeetpatil02"><b>Food Delivery Website</b></a></td>
-      <td>Responsive food ordering platform with menu browsing, cart, and secure payments</td>
-      <td>HTML · CSS · JS · Node.js · MySQL</td>
-      <td>Full-stack · Payment Integration</td>
-    </tr>
-    <tr>
-      <td>💬 <a href="https://github.com/abhijeetpatil02"><b>Chat Application</b></a></td>
-      <td>Real-time messaging web app with backend database integration</td>
-      <td>HTML · CSS · JS · Node.js · MySQL</td>
-      <td>Real-time · WebSocket-based</td>
-    </tr>
-    <tr>
-      <td>🛒 <a href="https://github.com/abhijeetpatil02/Smart-Product-Price-Comparison"><b>Smart Product Price Comparison</b></a></td>
-      <td>Aggregates real-time product prices across Amazon, Flipkart, Snapdeal & Myntra using web scraping</td>
-      <td>HTML · CSS · JS · Node.js</td>
-      <td>Web Scraping · Live Price Aggregation</td>
-    </tr>
-    <tr>
-      <td>🏥 <a href="https://github.com/abhijeetpatil02"><b>Medical Expenses Estimator</b></a></td>
-      <td>Estimates medical costs with transparent price ranges for treatments, procedures & hospitalization — empowering patients to plan finances before treatment</td>
-      <td>HTML · CSS · JS · Node.js · Python</td>
-      <td>Range Transparency · Cost Forecasting · Patient-Centric</td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+
+| ✨ Project | 📝 Description | 🔧 Stack | 🌟 What's Special |
+|-----------|---------------|----------|-------------------|
+| 🛒 [**Smart Product Price Comparison**](https://github.com/abhijeetpatil02/Smart-Product-Price-Comparison) | Real-time price aggregator across Amazon, Flipkart, Snapdeal & Myntra | HTML · CSS · JS · Node.js | Live web scraping from 4 platforms |
+| 🏥 [**Medical Expenses Estimator**](https://github.com/abhijeetpatil02) | Estimates treatment costs with transparent price ranges — helping patients plan finances before stepping into a hospital | HTML · CSS · JS · Node.js · Python | Range transparency · Patient-first design |
+| 🍔 [**Food Delivery Website**](https://github.com/abhijeetpatil02) | Full-featured food ordering platform with menu, cart & secure payments | HTML · CSS · JS · Node.js · MySQL | End-to-end ordering flow |
+| 💬 [**Chat Application**](https://github.com/abhijeetpatil02) | Real-time messaging web app with database-backed message history | HTML · CSS · JS · Node.js · MySQL | Real-time communication |
+
+</div>
 
 ---
 
@@ -95,36 +86,53 @@ portfolio   : https://abhijeetp-portfolio.netlify.app/
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhijeetpatil02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetpatil02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhijeetpatil02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetpatil02&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetpatil02&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetpatil02&theme=tokyonight&hide_border=true" width="60%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeetpatil02&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 GitHub Trophies
 
-| 🏅 Award / Certification | 🏢 Issuing Organization | 📅 Date |
-|--------------------------|--------------------------|---------|
-| 🐍 Python Programming | PrepInsta Technologies Pvt. Ltd. | April 2026 |
-| 🎖️ Technical Fest Participation — *Medha.25* | Shree Devi Institute of Technology, Mangaluru | Dec 2025 |
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhijeetpatil02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="95%" />
+
+</div>
 
 ---
 
-## 🌐 Connect with Me
+## 🏅 Certifications & Achievements
 
-<div align="left">
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-patil-83696837a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://abhijeetp-portfolio.netlify.app/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abhijeet_p02)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilabhijeet261@gmail.com)
+| 🏅 | Title | 🏢 Organization | 📅 |
+|----|-------|-----------------|-----|
+| 🐍 | **Python Programming** | PrepInsta Technologies Pvt. Ltd. | April 2026 |
+| 🎖️ | **Technical Fest — Medha.25** | Shree Devi Institute of Technology, Mangaluru | Dec 2025 |
+
+</div>
+
+---
+
+## 💭 Dev Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 
 </div>
 
@@ -132,8 +140,12 @@ portfolio   : https://abhijeetp-portfolio.netlify.app/
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 
-*⭐ If you find my work helpful, consider starring my repositories — it keeps me motivated!*
+### 🙌 Thanks for visiting my profile!
+
+⭐ **If you find my work interesting, drop a star on my repos — it means a lot!** ⭐
+
+*"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
 </div>
