@@ -32,7 +32,7 @@ Hey there! I'm **Abhijeet Patil**, a passionate **Full Stack Web Developer** and
 I love building things that live on the internet — from food delivery apps to AI-powered medical tools. Currently diving deep into **Artificial Intelligence & Machine Learning** to build smarter, more impactful products.
 
 - 🎓 Pursuing **MCA** at Mangalore
-- 🔭 Working on ** Estimates treatment costs with transparent price ranges**
+- 🔭 Working on **Estimates treatment costs with transparent price ranges**
 - 🌱 Currently learning **AI & Machine Learning**
 - 🏥 Recently built **Medical Expenses Estimator** — a transparent cost planning tool for patients
 - 💡 Believer in clean code, great UX & solving real problems
