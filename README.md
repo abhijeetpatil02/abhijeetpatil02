@@ -40,7 +40,7 @@ I love building things that live on the internet — from food delivery apps to 
 - 🌐 Portfolio: [abhijeetp-portfolio.netlify.app](https://abhijeetp-portfolio.netlify.app/)
 - 📍 Bidar, Karnataka, India
 
----
+
 
 ## 🛠️ Tech Stack
 
