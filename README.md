@@ -126,7 +126,7 @@ I love building things that live on the internet — from food delivery apps to 
 
 </div>
 
----
+
 
 ## 💭 Dev Quote of the Day
 
@@ -136,7 +136,7 @@ I love building things that live on the internet — from food delivery apps to 
 
 </div>
 
----
+
 
 <div align="center">
 
