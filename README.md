@@ -5,12 +5,15 @@
 <a href="https://www.linkedin.com/in/abhijeet-patil-83696837a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://abhijeetp-portfolio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://www.codechef.com/users/abhijeet_p02">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:patilabhijeet261@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -40,7 +43,9 @@ I love building things that live on the internet — from food delivery apps to 
 - 🌐 Portfolio: [abhijeetp-portfolio.netlify.app](https://abhijeetp-portfolio.netlify.app/)
 - 📍 Bidar, Karnataka, India
 
+<br clear="right"/>
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -86,14 +91,14 @@ I love building things that live on the internet — from food delivery apps to 
 
 <div align="center">
 
-<!-- <img src="htps://github-readme-stats.vercel.app/api?username=abhijeetpatil02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="htts://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetpatil02&layout=compact&theme=tokyonight&hide_border=true" width="40%" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=abhijeetpatil02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetpatil02&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="41%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetpatil02&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=abhijeetpatil02&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
 
@@ -126,7 +131,7 @@ I love building things that live on the internet — from food delivery apps to 
 
 </div>
 
-
+---
 
 ## 💭 Dev Quote of the Day
 
@@ -136,7 +141,7 @@ I love building things that live on the internet — from food delivery apps to 
 
 </div>
 
-
+---
 
 <div align="center">
 
@@ -146,6 +151,4 @@ I love building things that live on the internet — from food delivery apps to 
 
 ⭐ **If you find my work interesting, drop a star on my repos — it means a lot!** ⭐
 
-
 </div>
-create redmi file improve this 
