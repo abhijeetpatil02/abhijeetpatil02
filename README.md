@@ -140,6 +140,7 @@ I love building things that live on the internet — from food delivery apps to 
 | 🏅 | Title | 🏢 Organization | 📅 |
 |----|-------|-----------------|-----|
 | 🐍 | **Python Programming** | PrepInsta Technologies Pvt. Ltd. | April 2026 |
+| 🗄️ | **SQL** | PrepInsta Technologies Pvt. Ltd. | June 2026 |
 | 🎖️ | **Technical Fest — Medha.25** | Shree Devi Institute of Technology, Mangaluru | Dec 2025 |
 
 </div>
