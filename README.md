@@ -30,7 +30,7 @@
 
 <img align="right" alt="coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-Hey there! I'm **Abhijeet Patil**, a passionate **Full Stack Web Developer** and **MCA student** from Bidar, Karnataka 🇮🇳
+Hey there! I'm **Abhijeet Patil**, a passionate **Full Stack Web Developer** and **MCA student** from Bidar, Karnataka
 
 I love building things that live on the internet — from food delivery apps to AI-powered medical tools. Currently diving deep into **Artificial Intelligence & Machine Learning** to build smarter, more impactful products.
 
