@@ -89,12 +89,12 @@ I love building things that live on the internet — from food delivery apps to 
 
 <div align="center">
 
-| ✨ Project | 📝 Description | 🔧 Stack | 🌟 What's Special |
-|-----------|---------------|----------|-------------------|
-| 🛒 [**Smart Product Price Comparison**](https://github.com/abhijeetpatil02/Smart-Product-Price-Comparison) | Real-time price aggregator across Amazon, Flipkart, Snapdeal & Myntra | HTML · CSS · JS · Node.js | Live web scraping from 4 platforms |
-| 🏥 [**Medical Expenses Estimator**](https://github.com/abhijeetpatil02) | Estimates treatment costs with transparent price ranges — helping patients plan finances before stepping into a hospital | HTML · CSS · JS · Node.js · Python | Range transparency · Patient-first design |
-| 🍔 [**Food Delivery Website**](https://github.com/abhijeetpatil02) | Full-featured food ordering platform with menu, cart & secure payments | HTML · CSS · JS · Node.js · MySQL | End-to-end ordering flow |
-| 💬 [**Chat Application**](https://github.com/abhijeetpatil02) | Real-time messaging web app with database-backed message history | HTML · CSS · JS · Node.js · MySQL | Real-time communication |
+| ✨ Project | 📝 Description | 🔧 Stack | 🌟 What's Special | 🔗 Live Demo |
+|-----------|---------------|----------|-------------------|-------------|
+| 🛒 [**Smart Product Price Comparison**](https://github.com/abhijeetpatil02/Smart-Product-Price-Comparison) | Real-time price aggregator across Amazon, Flipkart, Snapdeal & Myntra | HTML · CSS · JS · Node.js | Live web scraping from 4 platforms | [▶ Live](https://smart-product-price-comparison.onrender.com/) |
+| 🏥 [**Medical Expenses Estimator**](https://github.com/abhijeetpatil02/Medical-expenses-estimator-with-range-transparency) | Estimates treatment costs with transparent price ranges — helping patients plan finances before stepping into a hospital | HTML · CSS · JS · Node.js · Python | Range transparency · Patient-first design | [▶ Live](https://precare-cost.onrender.com/) |
+| 🍔 [**Food Delivery Website**](https://github.com/abhijeetpatil02) | Full-featured food ordering platform with menu, cart & secure payments | HTML · CSS · JS · Node.js · MySQL | End-to-end ordering flow | [▶ Live](https://foodie-2has.onrender.com/login) |
+| 💬 [**Chat Application**](https://github.com/abhijeetpatil02) | Real-time messaging web app with database-backed message history | HTML · CSS · JS · Node.js · MySQL | Real-time communication | [▶ Live](https://chat-application-lk1e.onrender.com/login) |
 
 </div>
 
