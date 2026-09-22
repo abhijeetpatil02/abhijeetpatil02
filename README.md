@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abhijeet%20Patil&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 
-<a href="https://www.linkedin.com/in/abhijeet-patil-83696837a/">
+<a href="https://www.linkedin.com/in/abhijeet-patil-83696837a/"> 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
