@@ -32,7 +32,7 @@
 
 Hey there! I'm **Abhijeet Patil**, a passionate **Full Stack Web Developer** and **MCA student** from Bidar, Karnataka
 
-I love building things that live on the internet — from food delivery apps to AI-powered medical tools. Currently diving deep into **Artificial Intelligence & Machine Learning** to build smarter, more impactful products.
+I love building things that live on the internet — from food delivery apps to AI-powered medical tools. Currently diving deep into **Artificial Intelligence & Machine Learning** to build smarter, more impactful products. 
 
 - 🎓 Pursuing **MCA** at Mangalore
 - 🔭 Working on **Medical-expenses-estimator-with-range-transparency**
