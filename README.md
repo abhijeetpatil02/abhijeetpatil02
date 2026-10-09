@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abhijeet%20Patil&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 
-<a href="https://www.linkedin.com/in/abhijeet-patil-83696837a/">  
+<a href="https://www.linkedin.com/in/abhijeet-patil-83696837a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
@@ -30,14 +30,13 @@
 
 <img align="right" alt="coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-Hey there! I'm **Abhijeet Patil**, a passionate **Full Stack Web Developer** and **MCA student** from Bidar, Karnataka
+Hey there! I'm **Abhijeet Patil**, a passionate **Full Stack Web Developer** and **MCA student** from Bidar, Karnataka.
 
-I love building things that live on the internet — from food delivery apps to AI-powered medical tools. Currently diving deep into **Artificial Intelligence & Machine Learning** to build smarter, more impactful products. 
+I love building things that live on the internet, from food delivery apps to AI-powered medical tools. I'm currently going deeper into **Artificial Intelligence & Machine Learning** to build smarter, more impactful products.
 
 - 🎓 Pursuing **MCA** at Mangalore
-- 🔭 Working on **Medical-expenses-estimator-with-range-transparency**
-- 🌱 Currently learning **AI & Machine Learning**
-- 🏥 Recently built **Medical Expenses Estimator** — a transparent cost planning tool for patients
+- 🏥 Built **Medical Expenses Estimator**, a transparent cost planning tool that helps patients plan before stepping into a hospital
+- 🌱 Learning **AI & Machine Learning** (Python, scikit-learn, NumPy, Pandas) and exploring **GenAI** and prompt engineering
 - 💡 Believer in clean code, great UX & solving real problems
 - 📫 Reach me: **patilabhijeet261@gmail.com**
 - 🌐 Portfolio: [abhijeetp-portfolio.netlify.app](https://abhijeetp-portfolio.netlify.app/)
@@ -49,7 +48,7 @@ I love building things that live on the internet — from food delivery apps to 
 
 ## 🛠️ Tech Stack
 
-<div align="center"> 
+<div align="center">
 
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -91,10 +90,10 @@ I love building things that live on the internet — from food delivery apps to 
 
 | ✨ Project | 📝 Description | 🔧 Stack | 🌟 What's Special | 🔗 Live Demo |
 |-----------|---------------|----------|-------------------|-------------|
+| 🏥 [**Medical Expenses Estimator**](https://github.com/abhijeetpatil02/Medical-expenses-estimator-with-range-transparency) | Estimates treatment costs with transparent price ranges, helping patients plan finances before stepping into a hospital | HTML · CSS · JS · Node.js · Python | Range transparency · Patient-first design | [▶ Live](https://precare-cost.onrender.com/) |
 | 🛒 [**Smart Product Price Comparison**](https://github.com/abhijeetpatil02/Smart-Product-Price-Comparison) | Real-time price aggregator across Amazon, Flipkart, Snapdeal & Myntra | HTML · CSS · JS · Node.js | Live web scraping from 4 platforms | [▶ Live](https://smart-product-price-comparison.onrender.com/) |
-| 🏥 [**Medical Expenses Estimator**](https://github.com/abhijeetpatil02/Medical-expenses-estimator-with-range-transparency) | Estimates treatment costs with transparent price ranges — helping patients plan finances before stepping into a hospital | HTML · CSS · JS · Node.js · Python | Range transparency · Patient-first design | [▶ Live](https://precare-cost.onrender.com/) |
-| 🍔 [**Food Delivery Website**](https://github.com/abhijeetpatil02) | Full-featured food ordering platform with menu, cart & secure payments | HTML · CSS · JS · Node.js · MySQL | End-to-end ordering flow | [▶ Live](https://foodie-2has.onrender.com/login) |
-| 💬 [**Chat Application**](https://github.com/abhijeetpatil02) | Real-time messaging web app with database-backed message history | HTML · CSS · JS · Node.js · MySQL | Real-time communication | [▶ Live](https://chat-application-lk1e.onrender.com/login) |
+| 🍔 [**Food Delivery Website**](https://github.com/abhijeetpatil02?tab=repositories) | Full-featured food ordering platform with menu, cart & secure payments | HTML · CSS · JS · Node.js · MySQL | End-to-end ordering flow | [▶ Live](https://foodie-2has.onrender.com/login) |
+| 💬 [**Chat Application**](https://github.com/abhijeetpatil02?tab=repositories) | Real-time messaging web app with database-backed message history | HTML · CSS · JS · Node.js · MySQL | Real-time communication | [▶ Live](https://chat-application-lk1e.onrender.com/login) |
 
 </div>
 
@@ -139,10 +138,10 @@ I love building things that live on the internet — from food delivery apps to 
 
 | 🏅 | Title | 🏢 Organization | 📅 |
 |----|-------|-----------------|-----|
-| 🐍 | **Python Programming** | PrepInsta Technologies Pvt. Ltd. | April 2026 |
-| 🗄️ | **SQL** | PrepInsta Technologies Pvt. Ltd. | June 2026 |
 | 🤖 | **Google Prompting Essentials** | Google (via Coursera) | June 22, 2026 |
 | 📊 | **GenAI Powered Data Analytics Job Simulation** | Tata (via Forage) | June 10, 2026 |
+| 🗄️ | **SQL** | PrepInsta Technologies Pvt. Ltd. | June 2026 |
+| 🐍 | **Python Programming** | PrepInsta Technologies Pvt. Ltd. | April 2026 |
 | 🎖️ | **Technical Fest — Medha.25** | Shree Devi Institute of Technology, Mangaluru | Dec 2025 |
 
 </div>
@@ -165,6 +164,6 @@ I love building things that live on the internet — from food delivery apps to 
 
 ### 🙌 Thanks for visiting my profile!
 
-⭐ **If you find my work interesting, drop a star on my repos — it means a lot!** ⭐
+⭐ **If you find my work interesting, drop a star on my repos. It means a lot!** ⭐
 
 </div>
