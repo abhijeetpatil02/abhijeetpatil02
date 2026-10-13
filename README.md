@@ -71,7 +71,7 @@ const abhijeet = {
   <tr>
     <td align="center"><b>🤖 AI / ML</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=py,sklearn,numpy,pandas,tensorflow,pytorch&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=py,sklearn,numpy,pandas,pytorch&theme=dark" />
       <br/>
       <img src="https://img.shields.io/badge/Machine_Learning-7c3aed?style=for-the-badge&logo=scikitlearn&logoColor=white" />
       <img src="https://img.shields.io/badge/Deep_Learning-302b63?style=for-the-badge&logo=tensorflow&logoColor=white" />
