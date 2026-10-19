@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abhijeet%20Patil&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/abhijeetpatil02">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=Building+full+stack+apps+that+solve+real+problems;MCA+student+%7C+Python+%26+Node.js+developer;Exploring+AI%2C+Machine+Learning+%26+Deep+Learning;Clean+code+%C2%B7+Great+UX+%C2%B7+Real+impact" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=Building+full+stack+apps+that+solve+real+problems;MCA+student+%7C+Python+%26+Node.js+developer;Exploring+AI%2C+Machine+Learning+%26+Deep+Learning;Clean+code+%C2%B7+Great+UX+%C2%B7+Real+impact" alt="Typing animation"  />
 </a>
 
 <br/>
